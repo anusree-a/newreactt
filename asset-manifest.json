@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newreactt/static/css/main.a40c0897.css",
-    "main.js": "/newreactt/static/js/main.aaf90f7f.js",
+    "main.css": "/newreactt/static/css/main.4f4c4167.css",
+    "main.js": "/newreactt/static/js/main.5227545e.js",
     "static/media/home.jpg": "/newreactt/static/media/home.919ea8c5fc9c201c3657.jpg",
     "static/media/about.jpg": "/newreactt/static/media/about.888e5f470c4662e772db.jpg",
     "static/media/skill.jpg": "/newreactt/static/media/skill.c43b177b43744be11deb.jpg",
@@ -13,11 +13,11 @@
     "static/media/javascript.png": "/newreactt/static/media/javascript.166865dacb77d214f485.png",
     "static/media/github.png": "/newreactt/static/media/github.69ffd9cd5a846c976177.png",
     "index.html": "/newreactt/index.html",
-    "main.a40c0897.css.map": "/newreactt/static/css/main.a40c0897.css.map",
-    "main.aaf90f7f.js.map": "/newreactt/static/js/main.aaf90f7f.js.map"
+    "main.4f4c4167.css.map": "/newreactt/static/css/main.4f4c4167.css.map",
+    "main.5227545e.js.map": "/newreactt/static/js/main.5227545e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a40c0897.css",
-    "static/js/main.aaf90f7f.js"
+    "static/css/main.4f4c4167.css",
+    "static/js/main.5227545e.js"
   ]
 }
